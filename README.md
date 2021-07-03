@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/83135594/124355996-7aff6c00-dc31-11eb-86ba-4a1d8ac349bf.png)
-
-
 # **E-Commerce-Website-Scrapping**
 Scrapping 50 Pages of data containing Best Mobile Phones under Rs. 20000 /- from [Flipkart.com](https://www.flipkart.com/search?q=mobiles+under+20000&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off%27&sort=relevance&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D20000&page=) to Analyze the Products and Identify the best buying options
 
